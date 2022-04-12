@@ -1,0 +1,6 @@
+config/set-ado-dev.sh
+config/set-proxy.sh
+
+responses/*
+bodies/*
+!bodies/SAMPLE.pipeline.json
